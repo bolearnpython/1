@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: lilydjwg's rules, mainly for China websites
-! Homepage: https://raw.githubusercontent.com/bolearnpython/1/master/a.txt
+! Homepage: http://127.0.0.1:8887/list.txt
 ! Expires: 5 days
-! https://github.com/bolearnpython/1/edit/master/a.txt
+
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
@@ -129,6 +129,4 @@ www.44cn.net###notice
 www.9cao666.com##a[rel="nofollow"]
 www.bobose3.com###myding
 www.bobose3.com###mytong
-www.qqcao.cool##.content
-requestly.helpcrunch.com
-chat.customerly.io
+www.qqcao.cool##.contentng
