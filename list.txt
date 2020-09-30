@@ -2,7 +2,7 @@
 ! Title: lilydjwg's rules, mainly for China websites
 ! Homepage: https://raw.githubusercontent.com/bolearnpython/1/master/list.txt
 ! Expires: 5 days
-
+! https://github.com/bolearnpython/1/edit/master/list.txt
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
