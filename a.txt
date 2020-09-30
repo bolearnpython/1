@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: lilydjwg's rules, mainly for China websites
-! Homepage: https://github.com/bolearnpython/1/edit/master/a.txt
+! Homepage: https://raw.githubusercontent.com/bolearnpython/1/master/a.txt
 ! Expires: 5 days
-
+! https://github.com/bolearnpython/1/edit/master/a.txt
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
