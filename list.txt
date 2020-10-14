@@ -126,8 +126,6 @@ m.shumilou.net##a[id][target=_top]
 example.com#@#div.textad
 example.com,~foo.example.com##*.sponsor
 www.44cn.net###notice
-www.bobose3.com###myding
-www.bobose3.com###mytong
 www.qqcao.cool##.content
 .*.alicdn.com
 chat.customerly.io
