@@ -1,5 +1,5 @@
 ﻿[Adblock Plus 2.0]
-! Title: lilydjwg's rules, mainly for China websites
+! Title: 自定义广告过滤
 ! Homepage: https://cdn.jsdelivr.net/gh/bolearnpython/1@master/list.txt
 ! Expires: 30 days
 ! https://github.com/bolearnpython/1/edit/master/list.txt
