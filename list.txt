@@ -2,6 +2,7 @@
 ! Title: 自定义广告过滤
 ! Homepage: https://cdn.jsdelivr.net/gh/bolearnpython/1@master/list.txt
 ! Expires: 30 days
+! 刷新版本：https://purge.jsdelivr.net/gh/bolearnpython/1@master/list.txt
 ! https://github.com/bolearnpython/1/edit/master/list.txt
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
