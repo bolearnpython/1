@@ -4,6 +4,9 @@
 ! Expires: 30 days
 ! 刷新版本：https://purge.jsdelivr.net/gh/bolearnpython/1@master/list.txt
 ! https://github.com/bolearnpython/1/edit/master/list.txt
+! 其他规则
+! https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+! https://gitee.com/cjx82630/cjxlist/raw/master/cjx-annoyance.txt
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
